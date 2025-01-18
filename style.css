@@ -1,0 +1,93 @@
+header{
+    width: 999px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.on{
+    width: 198px;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 26px;
+    margin-left: 29px;
+}
+.bir{
+    width: 108px;
+    background-color: blue ;
+    border-radius: 6px;
+}
+.ik{
+   width: 80px;
+   border-radius: 6px;
+   background-color: red;
+}
+.chap{
+    color: gray;
+}
+main{
+    width: 1016px;
+    height: 349px;
+    margin-top: 124px;
+    margin-left: 30px;
+}
+.first{
+    display: flex;
+    justify-content: space-around;
+}
+.biri{
+    display: flex;
+    justify-content: space-around;
+}
+.ikki{
+    display: flex;
+    justify-content: space-around;
+}
+.uch{
+    display: flex;
+    justify-content: space-around;
+}
+.tor{
+    display: flex;
+    justify-content: space-around;
+}
+.n{
+    background-color: #C9F7F5;
+    border-radius: 6px;
+    width: 92px;
+    height: 32px;
+   border: #C9F7F5;
+   color: #1BC5BD;
+}
+.v{
+   display: flex;
+  justify-content: space-between;
+  width: 175px;
+
+}
+.v2{
+    display: flex;
+   justify-content: space-between;
+   width: 175px;
+ 
+ }
+ .v3{
+    display: flex;
+   justify-content: space-between;
+   width: 175px;
+ 
+ }
+ .v4{
+    display: flex;
+   justify-content: space-between;
+   width: 175px;
+ 
+ }
+ .star3{
+    height: 3px;
+ }
+ .r{
+    color: gray;
+ }
+ .div{
+    height: 12px;
+ }
